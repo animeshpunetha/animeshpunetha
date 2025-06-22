@@ -57,6 +57,7 @@
 ### Restaurant Management API
 
 * Backend API built with **Node.js**, **Express.js**, **MongoDB**
+* A restaurant management application with map integration for locating the location.
 * Features: User authentication, order management, table booking, payment integration.
 
 ### Chat App
