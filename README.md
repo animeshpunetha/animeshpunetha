@@ -44,7 +44,7 @@
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" /></code>
   <code><img height="30" src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=000000" alt="JWT" /></code>
 <!--   https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-token&logoColor=white -->
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" /></code>
+<!--   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" /></code> -->
   <code><img height="30" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg" alt="WebSockets" /></code>
   <code><img height="30" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="ML" /></code>
 
