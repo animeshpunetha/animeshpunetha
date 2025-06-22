@@ -6,11 +6,11 @@
 
 ## About Me
 
-* 🎓 Pursuing B.Tech in ECE, Class of 2026
-* 💻 Proficient in **C++**, **JavaScript**, **HTML**, **CSS**, **Python**
-* 🔧 Experienced with **Node.js**, **Express.js**, **MongoDB**, **WebSockets**, **JWT**
-* 📊 Data Science & Machine Learning with **scikit-learn**, **OpenCV**
-* 🎹 Music enthusiast
+* Pursuing B.Tech in ECE, Class of 2026
+* Proficient in **C++**, **JavaScript**, **HTML**, **CSS**, **Python**
+* Experienced with **Node.js**, **Express.js**, **MongoDB**, **WebSockets**, **JWT**
+* Data Science & Machine Learning with **scikit-learn**, **OpenCV**
+* Music enthusiast
 
 ---
 
