@@ -1,6 +1,6 @@
 # Hi, I’m Animesh Punetha 👋
 
-**Final-year Electronics and Communication Engineering undergraduate** at [National Institute of Technology Durgapur](https://nitdgp.ac.in), passionate about building scalable software and data-driven systems.
+**Final-year engineering undergraduate** at [National Institute of Technology Durgapur](https://nitdgp.ac.in), passionate about building scalable software and data-driven systems.
 
 ---
 
