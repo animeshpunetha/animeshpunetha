@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 * 🎓 Pursuing B.Tech in ECE, Class of 2026
 * 💻 Proficient in **C++**, **JavaScript**, **HTML**, **CSS**, **Python**
@@ -14,7 +14,7 @@
 
 ---
 
-## 💡 Skills
+## Skills
 
 | **Languages & Tools**   | **Frameworks & Libraries**         | **Other**           |
 | ----------------------- | ---------------------------------- | ------------------- |
@@ -23,7 +23,7 @@
 | SQL, MongoDB Atlas      | scikit-learn, OpenCV, scikit-image | Dynamic Programming |
 
 ---
-## 💻 Tech Stack
+## Tech Stack
 
 <p align="left">
   <!-- Programming Languages -->
@@ -52,7 +52,7 @@
 
 ---
 
-## 🔭 Projects
+## Projects
 
 ### Restaurant Management API
 
@@ -71,7 +71,7 @@
 
 ---
 
-## 📈 Currently Learning & Preparing
+## Currently Learning & Preparing
 
 * **SDE**, **Data Analyst**, and **Data Engineer** campus placement preparation
 * Advanced backend development & API design
@@ -94,7 +94,7 @@
 
 ---
 
-## 📊 GitHub Stats & Languages
+## GitHub Stats & Languages
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=animeshpunetha&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
