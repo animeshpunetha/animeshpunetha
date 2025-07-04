@@ -54,6 +54,12 @@
 
 ## Projects
 
+### SudokuLens
+
+* A sudoku solver which using the camera searches for a 9*9 Sudoku puzzle in the frame, extracts it, solves it and overlays the solution on the puzzle itself.
+* Trained a CNN (Convolutional Neural Network) model using MNIST dataset to detect digits in the puzzle grid.
+* Tech Stack: Python, Keras, OpenCV, Tensorflow, CNN
+
 ### Restaurant Management API
 
 * Backend API built with **Node.js**, **Express.js**, **MongoDB**
