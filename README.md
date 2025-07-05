@@ -48,11 +48,10 @@
 
 ---
 
-## Currently Learning & Preparing
+## Interests
 
-* **SDE**, **Data Analyst**, and **Data Engineer** campus placement preparation
-* Advanced backend development & API design
-* Data pipelines and engineering best practices
+* **SDE**, **Data Analyst**, and **Data Engineer** roles.
+* Advanced backend development & API design.
 
 ---
 
