@@ -25,32 +25,38 @@
 ---
 ## Projects
 
-### SudokuLens
+### SudokuLens: A real time AR sudoku solver
 
-* A sudoku solver which using the camera searches for a 9*9 Sudoku puzzle in the frame, extracts it, solves it and overlays the solution on the puzzle itself.
-* Trained a CNN (Convolutional Neural Network) model using MNIST dataset to detect digits in the puzzle grid.
-* Tech Stack: Python, Keras, OpenCV, Tensorflow, CNN
+* Trained a **CNN model** using **Chars74K** dataset to detect digits in unstructured image data.
+* Implemented contour detection, **image preprocessing** for accurate **puzzle extraction**. Solved the extracted puzzle **algorithmically** using **backtracking** and overlaid the solution onto the live feed.
+* Tech Stack: CNN, OpenCV, Keras, Tensorflow, Python
+  
+### FinSight: Full-Stack Personal Finance Agent
+
+* Built a **multi-user** personal finance web app enabling **income/expense tracking, time-based filtering with pagination, and visual analytics by category and date**.
+* Integrated OCR to extract expense **details from uploaded POS receipts for automated entry**.
+* Tech Stack: Node.js, Express.js, MongoDB, JWT, ReactJS
 
 ### Restaurant Management API
 
 * Backend API built with **Node.js**, **Express.js**, **MongoDB**
-* A restaurant management application with map integration for locating the location.
+* A restaurant management application with **map integration** for locating the location.
 * Features: User authentication, order management, table booking, payment integration.
 
-### Chat App
+### SocialHub: Full-Stack Real-Time Social Media Platform
 
-* Real-time chat using **WebSockets** and **JWT** authentication.
+* Developed a **scalable** social media app with **real-time messaging, multi-room chat, and secure user authentication** using JWT.
+* Tech Stack: Node.js, Express.js, Socket.IO, MongoDB, JWT, HTML, CSS, JavaScript
 
 ### Weather App
 
-* Trie-based city search optimization for fast suggestions
-* Integrated with OpenWeatherMap API
-
+* Built a responsive weather app leveraging OpenWeatherMap **API** for forecasts and **Trie data structures for optimized, fast city search suggestions**.
+* Tech Stack: JavaScript, OpenWeatherMap API, HTML, CSS
 ---
 
 ## Interests
 
-* **SDE**, **Data Analyst**, and **Data Engineer** roles.
+* **Software** and **Data Engineer** roles.
 * Advanced backend development & API design.
 
 ---
