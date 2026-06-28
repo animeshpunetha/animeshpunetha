@@ -62,10 +62,8 @@ Currently exploring production-grade AI systems, semantic retrieval, caching arc
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,nodejs,express,nestjs,mongodb,mysql,redis,git,github,linux" />
-
-<br><br>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,nodejs,express,mongodb,mysql,redis,git,github,linux" />
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
 
 </div>
