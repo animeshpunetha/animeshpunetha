@@ -1,85 +1,131 @@
-# Hi, I’m Animesh Punetha 👋
+<!-- Hero Section -->
 
-**Final-year engineering undergraduate** at [National Institute of Technology Durgapur](https://nitdgp.ac.in), having a strong foundation in Computer Science fundamentals and DSA, passionate about building scalable software and data-driven systems.
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Animesh%20Punetha&fontSize=50&fontAlignY=40&color=gradient&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;Backend+Developer;Data+%26+AI+Engineer;Building+Scalable+Systems;Distributed+Systems+%7C+RAG+%7C+ML" />
+
+<p>
+<a href="https://www.linkedin.com/in/animesh-punetha-4a04141a0">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:animesh.punetha01@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/ap007_nitd">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/lazycoder13427">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square"/>
+</a>
+
+</p>
+
+</div>
 
 ---
 
 ## About Me
 
-* Pursuing B.Tech in ECE, Class of 2026
-* Proficient in **C++**, **JavaScript**, **HTML**, **CSS**, **Python**
-* Experienced with **Node.js**, **Express.js**, **MongoDB**, **WebSockets**, **JWT**
-* Data Science & Machine Learning with **scikit-learn**, **OpenCV**
-* Music enthusiast
+<table>
+<tr>
+<td width="60%">
+
+Software Engineer focused on building scalable backend systems, distributed architectures, and AI-powered applications.
+
+* B.Tech, NIT Durgapur (2026)
+* Backend Engineering
+* Distributed Systems
+* Data Engineering
+* Machine Learning
+* Retrieval-Augmented Generation (RAG)
+
+Currently exploring production-grade AI systems, semantic retrieval, caching architectures, and high-performance backend services.
+
+</td>
+
+<td width="40%">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWk1dW56dXZ5eDdkbGd2YWRjN2c2MWE5eG1lbm16M3V2OHB4MmN1YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%">
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Skills
+## Tech Stack
 
-| **Languages & Tools**   | **Frameworks & Libraries**         | **Other**           |
-| ----------------------- | ---------------------------------- | ------------------- |
-| C++, JavaScript, Python | Node.js, Express.js, EJS           | Git, REST APIs      |
-| HTML5, CSS3, Bootstrap  | MongoDB, Mongoose                  | WebSockets, JWT     |
-| SQL, MongoDB Atlas      | scikit-learn, OpenCV, scikit-image | Dynamic Programming |
+<div align="center">
 
----
-## Projects
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,nodejs,express,nestjs,mongodb,mysql,redis,git,github,linux" />
 
-### SudokuLens: A real time AR sudoku solver
+<br><br>
 
-* Trained a **CNN model** using **Chars74K** dataset to detect digits in unstructured image data.
-* Implemented contour detection, **image preprocessing** for accurate **puzzle extraction**. Solved the extracted puzzle **algorithmically** using **backtracking** and overlaid the solution onto the live feed.
-* Tech Stack: CNN, OpenCV, Keras, Tensorflow, Python
-  
-### FinSight: Full-Stack Personal Finance Agent
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
 
-* Built a **multi-user** personal finance web app enabling **income/expense tracking, time-based filtering with pagination, and visual analytics by category and date**.
-* Integrated OCR to extract expense **details from uploaded POS receipts for automated entry**.
-* Tech Stack: Node.js, Express.js, MongoDB, JWT, ReactJS
-
-### Restaurant Management API
-
-* Backend API built with **Node.js**, **Express.js**, **MongoDB**
-* A restaurant management application with **map integration** for locating the location.
-* Features: User authentication, order management, table booking, payment integration.
-
-### SocialHub: Full-Stack Real-Time Social Media Platform
-
-* Developed a **scalable** social media app with **real-time messaging, multi-room chat, and secure user authentication** using JWT.
-* Tech Stack: Node.js, Express.js, Socket.IO, MongoDB, JWT, HTML, CSS, JavaScript
-
-### Weather App
-
-* Built a responsive weather app leveraging OpenWeatherMap **API** for forecasts and **Trie data structures for optimized, fast city search suggestions**.
-* Tech Stack: JavaScript, OpenWeatherMap API, HTML, CSS
----
-
-## Interests
-
-* **Software** and **Data Engineer** roles.
-* Advanced backend development & API design.
-
----
-
-🌱 Always learning. Always building.
-
----
-## 📫 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/animesh-punetha-4a04141a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <!-- <a href="https://kaggle.com/your-kaggle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a> -->
-  <a href="https://www.codechef.com/users/lazycoder13427" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/lazycoder13427" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/ap007_nitd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-</p>
-
----
-
-## GitHub Stats & Languages
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=animeshpunetha&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=animeshpunetha&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </div>
 
+---
+
+<h2>Experience</h2>
+
+<div align="center">
+
+| Company | Role | Impact |
+|----------|----------|----------|
+| **Aankalan India** | Junior Software Developer | Built distributed messaging platform serving **5,000+ concurrent users** using NestJS, Redis, Socket.IO, and MySQL |
+| **Team1 Consulting** | Software Developer Intern | Developed enterprise CRM platform, reducing manual effort by **95%** through workflow automation and secure RBAC |
+
+</div>
+
+---
+<h2> Featured Projects</h2>
+
+<div align="center">
+
+| Project | Description |
+|----------|-------------|
+| **Agentic RAG** | Enterprise-grade RAG with Semantic Cache, Intent Routing, Memory, Query Reformulation, ChromaDB Retrieval |
+| **FinSight** | AI-powered finance platform with OCR receipt processing, analytics dashboard, and expense tracking |
+| **SudokuLens** | Real-time AR Sudoku Solver using CNNs and OpenCV with 97.8% digit recognition accuracy |
+</div>
+
+---
+
+## Achievements
+
+* Solved **1400+ DSA Problems**
+* CodeChef Max Rating **1632**
+* JEE Advanced Qualifier
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=animeshpunetha&show_icons=true&hide_border=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshpunetha&layout=compact&hide_border=true&theme=transparent"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=animeshpunetha&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+
+<div align="center">
+
+<i>Building scalable systems, AI applications, and distributed architectures.</i>
+
+</div>
